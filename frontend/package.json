@@ -15,6 +15,8 @@
   "dependencies": {
     "cross-env": "^5.2.0",
     "nuxt": "^2.4.0",
+    "vuetify": "^1.5.5",
+    "vuetify-loader": "^1.2.1",
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/pwa": "^2.6.0"
   },
@@ -31,6 +33,11 @@
     "eslint-plugin-promise": ">=4.0.1",
     "eslint-plugin-standard": ">=4.0.0",
     "eslint-loader": "^2.1.2",
-    "eslint-plugin-vue": "^5.2.2"
+    "eslint-plugin-vue": "^5.2.2",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
   }
 }
